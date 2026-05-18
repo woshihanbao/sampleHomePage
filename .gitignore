@@ -1,0 +1,11 @@
+node_modules/
+_src/
+png/
+index-o.html
+package.json
+package-lock.json
+minify-html.js
+
+.DS_Store
+Thumbs.db
+.vscode/
